@@ -290,6 +290,3 @@ e. 地段。
 * 微信公众号: https://mp.weixin.qq.com/s/mtLVgz-Pxnu_q1nwDjIIyQ
 * pdf 版本：关注微信公众号「程序化思维」，回复 "买房" 获取。
 
-2. 建了一个群，交流北京买房经验，如群满，加微信号 「jeeeeeffer」拉你入群。
-
-![Alt text](attachments/images/1553998992115.png)
