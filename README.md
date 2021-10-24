@@ -8,7 +8,7 @@
 
 
 * #### [（一）说明](#说明)
-*   ##### [词条]  ](#https://github.com/mj5219054/beijing_house_knowledge/wiki) 
+*   ##### [词条](#https://github.com/mj5219054/beijing_house_knowledge/wiki) 
          
 
 
